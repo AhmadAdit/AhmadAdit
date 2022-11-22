@@ -1,7 +1,9 @@
 ### Hi there, I'm Ahmad Adit Nugroho 👋
 
 ### and here is my stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAdit&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)](https://github.com/AhmadAdit/github-readme-stats)
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
 </p>
