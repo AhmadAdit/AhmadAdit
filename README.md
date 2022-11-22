@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Ahmad Adit Nugroho 👋
 
+### and here is my stats
+<p align="center"><img src="https://www.codewars.com/users/AhmadAdit/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAdit&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 <!--
 **AhmadAdit/AhmadAdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
