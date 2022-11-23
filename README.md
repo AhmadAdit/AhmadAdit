@@ -4,12 +4,12 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAdit&theme=radical) -->
 <img width="530" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadAdit&theme=radical"/>
-
+<!-- <h2>-------------------------------------------------------</h2> -->
 <!-- <p><img src="https://wallpapercave.com/wp/wp6610939.jpg" width=495 height=100% ></p> -->
 
 <div class="row">
   <img width="530" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
-  <img width="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
+  <img width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)] -->
