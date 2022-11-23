@@ -9,7 +9,7 @@
 
 <div class="row">
   <img width="530" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
-  <img width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
+  <img width="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)] -->
