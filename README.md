@@ -6,11 +6,18 @@
 
 <!-- <p><img src="https://wallpapercave.com/wp/wp6610939.jpg" width=495 height=100% ></p> -->
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
+<div class="row">
+  <p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
 </p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
+</p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)](https://github.com/AhmadAdit/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)] -->
+
+
 <!--
 **AhmadAdit/AhmadAdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
