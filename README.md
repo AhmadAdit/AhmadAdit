@@ -1,6 +1,6 @@
-### Hi there, I'm Ahmad Adit Nugroho 👋
+### Hi there, I'm Adit 👋
 
-### and here is my stats
+### and here is my stats, hehe
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAdit&theme=radical) -->
 <img width="530" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadAdit&theme=radical"/>
