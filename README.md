@@ -7,12 +7,8 @@
 <!-- <p><img src="https://wallpapercave.com/wp/wp6610939.jpg" width=495 height=100% ></p> -->
 
 <div class="row">
-  <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAdit&theme=monokai"/>
-</p>
-<p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)"/>
-</p>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)] -->
