@@ -63,7 +63,7 @@ Something that got me interested in learning coding was none other than because 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhmadAdit)](https://github.com/AhmadAdit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAdit&layout=compact)](https://github.com/AhmadAdit)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=AhmadAdit.AhmadAdit)](https://begandung.blogspot.com/)
 
